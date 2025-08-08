@@ -1,4 +1,6 @@
-# UI Redesign Challenge: From "Unproper UI" to "Proper UI"
+# UI Redesign Challenge: From "Unproper UI" to "Proper UI "
+> **Volunteer Selection for a Startup – Mockup Trial Design Challenge**
+
 
 ## Overview
 
